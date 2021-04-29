@@ -3,3 +3,5 @@ Helllo laptop ...
 I am desktop !
 
 Laptop:Hello desktop ... how are you
+Desktop: Mia xara re laptop ... petao ! Esi ?
+
